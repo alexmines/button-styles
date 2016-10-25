@@ -12,50 +12,103 @@ div {
   text-align: center;
 }
 
-.btn {
+a {
+  text-decoration: none;
 
+}
+
+.btn {
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #333;
+  border-color: #333;
 }
 
 .sb {
-
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #ccc;
+  border-color: #ccc;
 }
 
 .gb {
-
+  display: inline-block;
+  border-style: solid;
+  background-color: #fff;
+  border-color: #333;
+  color: #333;
 }
 
 .wb {
-
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #f33;
+  border-color: #f33;
 }
 
 .pbs {
-
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #333;
+  border-color: #333;
 }
 
 .sbs {
-
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #ccc;
+  border-color: #ccc;
 }
 
 .gbs {
-
+  display: inline-block;
+  border-style: solid;
+  background-color: #fff;
+  border-color: #333;
+  color: #333;
 }
 
 .wbs {
-
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #f33;
+  border-color: #f33;
 }
 
 .pbb {
-
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #333;
+  border-color: #333;
 }
 
 .sbb {
-
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #ccc;
+  border-color: #ccc;
 }
 
 .gbb {
-
+  display: inline-block;
+  border-style: solid;
+  background-color: #fff;
+  border-color: #333;
+  color: #333;
 }
 
 .wbb {
-  
+  display: inline-block;
+  border-style: solid;
+  color: #fff;
+  background-color: #f33;
+  border-color: #f33;
 }
