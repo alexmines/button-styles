@@ -46,7 +46,12 @@ a {
   border-radius: 8px;
 }
 
-.gb {
+.btn-subtle:hover {
+  background-color: #666;
+  border-color: #666;
+}
+
+.btn-ghost {
   display: inline-block;
   border-style: solid;
   background-color: #fff;
@@ -56,6 +61,10 @@ a {
   padding: .4em .75em .3em;
   border-width: 3px;
   border-radius: 8px;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
 }
 
 .btn-warning {
@@ -68,6 +77,11 @@ a {
   padding: .4em .75em .3em;
   border-width: 3px;
   border-radius: 8px;
+}
+
+.btn-warning:hover {
+  background-color: #666;
+  border-color: #666;
 }
 
 .btn-small {
