@@ -15,6 +15,10 @@ div {
 a {
   text-decoration: none;
   padding: .4em .75em .3em;
+  display: inline-block;
+  border-radius: 8px;
+  background-color: #fff;
+  color: #fff;
 
 }
 
@@ -36,14 +40,12 @@ a {
 }
 
 .btn-subtle {
-  display: inline-block;
   border-style: solid;
   color: #fff;
   background-color: #ccc;
   border-color: #ccc;
   font-size: 1.125rem;
   border-width: 3px;
-  border-radius: 8px;
 }
 
 .btn-subtle:hover {
@@ -52,14 +54,12 @@ a {
 }
 
 .btn-ghost {
-  display: inline-block;
   border-style: solid;
   background-color: #fff;
   border-color: #333;
   color: #333;
   font-size: 1.125rem;
   border-width: 3px;
-  border-radius: 8px;
 }
 
 .btn-ghost:hover {
@@ -67,14 +67,12 @@ a {
 }
 
 .btn-warning {
-  display: inline-block;
   border-style: solid;
   color: #fff;
   background-color: #f33;
   border-color: #f33;
   font-size: 1.125rem;
   border-width: 3px;
-  border-radius: 8px;
 }
 
 .btn-warning:hover {
@@ -83,14 +81,10 @@ a {
 }
 
 .btn-small {
-  display: inline-block;
   border-style: solid;
-  color: #fff;
-  background-color: #333;
   border-color: #333;
   font-size: .875rem;
   border-width: 3px;
-  border-radius: 8px;
 }
 
 .sbs {
@@ -130,15 +124,10 @@ a {
 }
 
 .btn-big {
-  display: inline-block;
   border-style: solid;
-  color: #fff;
-  background-color: #333;
   border-color: #333;
   font-size: 1.5rem;
-  padding: .4em .75em .3em;
   border-width: 3px;
-  border-radius: 8px;
 }
 
 .sbb {
